@@ -1,3 +1,3 @@
 # bdd
 
-This is a Cucumber BDD framework
+This is Cucumber BDD framework
