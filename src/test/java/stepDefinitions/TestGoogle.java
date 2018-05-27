@@ -32,8 +32,8 @@ public class TestGoogle {
 		GoogleObj.Google.SearchField(driver).click();
 	}
 	
-	@When("^User enter Selenium word$")
-	public void user_enter_Selenium_word() throws Throwable {
+	@When("^User enters Selenium word$")
+	public void user_enters_Selenium_word() throws Throwable {
 	    GoogleObj.Google.SearchField(driver).clear();
 		GoogleObj.Google.SearchField(driver).sendKeys("Selenium");
 	}
