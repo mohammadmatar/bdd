@@ -1,0 +1,7 @@
+objectRepo/FaceBookObj$Facebook.class
+objectRepo/GoogleObj$Google.class
+testsDefinitions/TestFacebook.class
+runners/TestRunner.class
+objectRepo/FaceBookObj.class
+testsDefinitions/TestGoogle.class
+objectRepo/GoogleObj.class

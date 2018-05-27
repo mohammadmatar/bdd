@@ -1,4 +1,4 @@
-package stepDefinitions;
+package objectRepo;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

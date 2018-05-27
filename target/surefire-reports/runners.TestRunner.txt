@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: com.automationtask.app.autotask.AppTest
+Test set: runners.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.017 sec
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.024 sec - in runners.TestRunner

@@ -1,1 +1,5 @@
-/home/matar/eclipse-workspace/Autotask/src/test/java/com/automationtask/app/autotask/AppTest.java
+/home/matar/eclipse-workspace/Autotask/src/test/java/objectRepo/GoogleObj.java
+/home/matar/eclipse-workspace/Autotask/src/test/java/objectRepo/FaceBookObj.java
+/home/matar/eclipse-workspace/Autotask/src/test/java/runners/TestRunner.java
+/home/matar/eclipse-workspace/Autotask/src/test/java/testsDefinitions/TestFacebook.java
+/home/matar/eclipse-workspace/Autotask/src/test/java/testsDefinitions/TestGoogle.java
