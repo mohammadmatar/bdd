@@ -1,7 +1,7 @@
 Feature: Login with facebook using invalid credentials
 Description: The purpose of this feature to test Login with facebook using invalid credentials
 
-Scenario: Failed Login with Invalid Credentials 
+Scenario: Login with facebook using invalid credentials
 	Given User is on Facebook Home Page
 	When User Navigate to Login Section
 	And User enters the username and password
