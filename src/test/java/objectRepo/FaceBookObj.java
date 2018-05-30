@@ -20,7 +20,8 @@ public class FaceBookObj {
 		  
 		  public static WebElement LoginBtn(WebDriver driver) {
 			  WebElement element = null;
-			  element = driver.findElement(By.id("u_0_2"));
+			  //element = driver.findElement(By.id("u_0_w"));
+			  element = driver.findElement(By.xpath("//label[@id='loginbutton']/input"));
 			  return element;
 		  }
 		}

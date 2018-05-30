@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="11.85945">
+<testcase classname="Login with facebook using invalid credentials" name="Login with facebook using invalid credentials" time="6.052236">
+<system-out><![CDATA[Given User is on Facebook Home Page.........................................passed
+When User Navigate to Login Section.........................................passed
+And User enters the username and password...................................passed
+And User Click on Login Button..............................................passed
+Then Message displayed Login Failed.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Search using google.com" name="Search for Selenium word using google.com" time="5.807214">
+<system-out><![CDATA[Given User is on Google Home Page...........................................passed
+When User Click on Search bar...............................................passed
+And User enters Selenium word...............................................passed
+And User Click on Google Search Button......................................passed
+Then Search Results displayed...............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
